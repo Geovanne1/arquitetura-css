@@ -1,0 +1,15 @@
+como nomear a classe no seu código
+
+BEM
+
+Block Element Modifier
+
+bloco elemento motificador
+
+bloco
+
+bloco__elemento
+
+bloco--modificador
+
+bloco__elemento--modificador
